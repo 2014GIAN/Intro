@@ -1,0 +1,8 @@
+CREATE TABLE users (
+id INT AUTO INCREMENT PRIMARY KEY,
+usuari varchar(30),
+password varchar(30),
+nom varchar(30),
+llinatge1 varchar(30),
+llinatge2 varchar(30),
+);

@@ -1,0 +1,95 @@
+#{
+   margin:0;
+   padding:0;
+   }
+   
+body {
+        background-image:url(../IMG/body.gif);
+       }
+       
+#header {
+         padding:10px; }
+         
+
+#header img {
+              width:50px;
+              height:50px;
+              display:inline;}
+              
+         
+#header h1 {
+             font-size:20px;
+             display:inline;}
+             
+   
+#nav{
+       background:black;
+       border: 1px solid #7C7C7C;
+       list-style:none;
+       clear: left;
+       
+        }
+        
+#nav li {
+            color:white;
+            display:block;
+            padding: .3em;
+            text-decoration:nome;
+            }
+#nav li {
+            float:left;
+            width:20%;
+            }
+#nav.ul {
+          overflow:hidden;}
+          
+header {
+         padding:10px;
+         }
+
+#imggorila {
+             margin-left:20px; }
+        
+
+             
+
+         
+     
+     
+
+          
+
+          
+
+                                  
+ 
+ 
+         
+       
+
+
+            
+         
+         
+         
+
+              
+       
+      
+
+        
+
+        
+  
+        
+
+
+
+    
+        
+        
+   
+        
+
+        
+
